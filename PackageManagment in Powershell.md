@@ -26,4 +26,4 @@ another way to do that is.
 
 install-packageprovider -name chocolatey
 
-It must be done within a console eith maximun privilege 
+It must be done within a console with maximun privilege 
