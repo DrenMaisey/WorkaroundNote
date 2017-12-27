@@ -14,4 +14,4 @@ one command per time, one command per line
 
 of course the RDP service must alredy be enabled and activated
 
-the MultiRDP will be alive till the console remai open. That's not a definitive upgrade of the multirdp
+the MultiRDP will be alive till the reboot of the computer/server. That's not a definitive upgrade of the multirdp.
