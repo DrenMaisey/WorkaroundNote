@@ -8,7 +8,7 @@ Donwnload package from this [link](https://drive.google.com/open?id=1nzsKDLaT2Wz
 
 
 + First you need to have the Windows drivers installed on your PC (if it's not install package "SAMSUNG USB DRIVER FOR MOBILE PHONE.exe")
-+ Next connect the tablet to the pc and copy inside the DOWNLOAD folder  the AOSP-6.0 file and the GAPPS (evrithing is inside tha package previusly        downloaded)
++ Next connect the tablet to the pc and copy inside the DOWNLOAD folder  the AOSP-6.0 file and the GAPPS (everything is inside the package previusly        downloaded)
 
 + then you need to put your GALAXY Tab 10.1 in download mode then connect it to your PC
 
