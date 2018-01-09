@@ -2,7 +2,7 @@
 ## Only for 3G version 
 ## Only with windows computer
 
-Post on XDA of the reference: [XDA](https://forum.xda-developers.com/galaxy-tab-10-1/development/rom-android-6-0-marshmallow-t3266663)
+Post on XDA for reference: [XDA](https://forum.xda-developers.com/galaxy-tab-10-1/development/rom-android-6-0-marshmallow-t3266663)
 
 Donwnload package from this [link](https://drive.google.com/open?id=1nzsKDLaT2Wz8zcvzI_xVeTJs5_qu0jsa)
 
