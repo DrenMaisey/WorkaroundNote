@@ -5,7 +5,7 @@
 ## Go Back to Home
 ![BackToHome Gesture](https://github.com/DrenMaisey/WorkaroundNote/blob/master/iPhoneXgesture/BackToHome.gif)
 ## Open Control Center
-![Open Control Center](https://github.com/DrenMaisey/WorkaroundNote/blob/master/iPhoneXgesture/OperControlCenter.gif)
+![Open Control Center](https://github.com/DrenMaisey/WorkaroundNote/blob/master/iPhoneXgesture/OpenControlCenter.gif)
 ## Open task Manager
 ![Open Task Manager](https://github.com/DrenMaisey/WorkaroundNote/blob/master/iPhoneXgesture/OpenTaskManager.gif)
 ## Switch between app
