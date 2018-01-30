@@ -15,9 +15,9 @@
 ![Safety Filters](https://github.com/DrenMaisey/WorkaroundNote/blob/master/newGPO/FiltriDiSicurezza.png)
 
 
-You must add in the Delgation Tab the **Domain Computer** group in order apply the policy to the user
+    You must add in the Delgation Tab the **Domain Computer** group in order apply the policy to the user
 
-![Delegation](https://github.com/DrenMaisey/WorkaroundNote/blob/master/newGPO/Delega.png)
+    ![Delegation](https://github.com/DrenMaisey/WorkaroundNote/blob/master/newGPO/Delega.png)
 
 
 
