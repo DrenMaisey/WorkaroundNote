@@ -12,15 +12,15 @@
 
 
 2. If you modify the security Filter adding group or user to specify to who the Policy will be applied (removing the authenticated user Group),
-[Safety Filters](https://github.com/DrenMaisey/WorkaroundNote/blob/master/newGPO/FiltriDiSicurezza.png "Safety Filters")
+![Safety Filters](https://github.com/DrenMaisey/WorkaroundNote/blob/master/newGPO/FiltriDiSicurezza.png)
 
 
 You must add in the Delgation Tab the **Domain Computer** group in order apply the policy to the user
 
-[Delegation](https://github.com/DrenMaisey/WorkaroundNote/blob/master/newGPO/Delega.png "Delegation")
+![Delegation](https://github.com/DrenMaisey/WorkaroundNote/blob/master/newGPO/Delega.png)
 
 
 
 *Diff between User or computer Policy 
 
-[UserOrComputer](https://github.com/DrenMaisey/WorkaroundNote/blob/master/newGPO/UserOrComputerPolicy.png "UserOrComputer")
+![UserOrComputer](https://github.com/DrenMaisey/WorkaroundNote/blob/master/newGPO/UserOrComputerPolicy.png)
