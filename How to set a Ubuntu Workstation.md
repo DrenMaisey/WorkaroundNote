@@ -4,7 +4,6 @@
 
 + Dash to Dock
 
-
 ## App / Utility
 
 + Discord
@@ -12,4 +11,5 @@
 + Git
 + Snap
 + Cryptomator
-+ 
++ KDE Connector  
+    KDE connector Indicator [![LINK](https://github.com/Bajoja/indicator-kdeconnect)]
