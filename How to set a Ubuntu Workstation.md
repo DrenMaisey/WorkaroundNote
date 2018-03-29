@@ -13,3 +13,4 @@
 + Cryptomator
 + KDE Connector  
     KDE connector Indicator [![LINK](https://github.com/Bajoja/indicator-kdeconnect)]
++ Youtube-dl
