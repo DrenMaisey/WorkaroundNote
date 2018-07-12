@@ -1,6 +1,5 @@
 # Remove an old and crashed DC
 
-
 There are certain situations however, such as server crash or failure of DCPROMO option, that would require a manual removal
 of the DC from the system by cleaning up the servers metadata.
 
