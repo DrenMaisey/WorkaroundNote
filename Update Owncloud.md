@@ -63,3 +63,5 @@ su tutte le voci che compaiono
 sudo apt autoremove
 
 Personalizzazioni estetiche
+
+Privacy Policy
