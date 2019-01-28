@@ -17,7 +17,7 @@ sudo apt update && sudo apt upgrade
 Dopo aggiornamento di tutto owncloud funziona ma non si è aggiornato (versione 9.1.6)
 Certbot sembra funzionare si è aggiornato alla versione 0.28 e dovrebbe rinnovare il certificato senza problemi
 
-sudo apt autoremove
+sudo apt autoremove  --> leggere cosa rimuove!!  //non l'ho fatto
 
 per forzare aggiornamento pacchetto owncloud è necessario fare 
 
@@ -33,7 +33,7 @@ sudo do-release-upgrade  → per avviare aggiornamento della versione di ubuntu
 
 dopo riavvia owncloud non si raggiunge
 
-sudo service httpd status
+sudo service apache2 status
 sudo service ufw status
 
 a2dismod php7.0 a2enmod php7.2
@@ -60,7 +60,7 @@ AllowOverride All
 su tutte le voci che compaiono
 
 
-sudo apt autoremove
+sudo apt autoremove  -->> leggere cosa rimuove!!!!
 
 Personalizzazioni estetiche
 
